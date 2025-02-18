@@ -1,0 +1,1 @@
+﻿create table Gymall( GymId int ,Name varchar(100), Position varchar (50))
